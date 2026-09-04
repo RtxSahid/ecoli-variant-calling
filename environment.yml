@@ -1,0 +1,12 @@
+name: variant-calling
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bwa
+  - samtools
+  - bcftools
+  - python>=3.10
+  - pandas
+
+
